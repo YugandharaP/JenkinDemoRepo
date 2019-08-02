@@ -45,18 +45,5 @@
 		 
 	</build>
 
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-4-126-releases</name>
-        <url>http://18.221.82.129:8081/artifactory/mavennew</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-4-126-snapshots</name>
-        <url>http://18.221.82.129:8081/artifactory/mavennew-snapshot</url>
-    </snapshotRepository>
-</distributionManagement>
-
 
 </project>
